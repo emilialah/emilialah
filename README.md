@@ -10,7 +10,3 @@ I’m always excited to learn new technologies and collaborate on exciting proje
 - 📫 How to reach me: [emilia.lahtinen@ki.se](emilia.lahtinen@ki.se)
 - ⭐ Pronouns: she/her
 - ⚡ Fun fact: I am a retird competitive swimmer #OUOhYeah!
-
-## Tools I use:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-          
