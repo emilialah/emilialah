@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## About Me 😄
 Hi, I’m Emilia! I’m a passionate inspiring bioinformatician with a knack for data analysis and visualization. 
 My journey in coding focuses on metagenomics data through looking at antimicrobial resistance genes, merging both shotgun and qPCR data, and building MAGs. 
@@ -13,4 +11,6 @@ I’m always excited to learn new technologies and collaborate on exciting proje
 - ⭐ Pronouns: she/her
 - ⚡ Fun fact: I am a retird competitive swimmer #OUOhYeah!
 
+## Tools I use:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
           
