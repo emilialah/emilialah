@@ -13,6 +13,4 @@ I’m always excited to learn new technologies and collaborate on exciting proje
 - ⭐ Pronouns: she/her
 - ⚡ Fun fact: I am a retird competitive swimmer #OUOhYeah!
 
-## Tools I use:
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
